@@ -1,4 +1,4 @@
-![Image](https://raw.githubusercontent.com/olegsvs/reyohoho-chrome-ext/master/images/banner.jpg)
+![Image](https://raw.githubusercontent.com/olegsvs/reyohoho-chrome-ext/master/images/banner.png)
 
 Расширение для Google Chrome, превращающее [Kinopoisk.ru](https://www.kinopoisk.ru/) в бесплатный онлайн - кинотеатр!
 
