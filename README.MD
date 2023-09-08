@@ -1,6 +1,6 @@
 ![Image](https://raw.githubusercontent.com/olegsvs/reyohoho-chrome-ext/master/images/banner.png)
 
-Расширение для Google Chrome, превращающее [Kinopoisk.ru](https://www.kinopoisk.ru/) в бесплатный онлайн - кинотеатр!
+Расширение для Chrome/Firefox, превращающее [Kinopoisk.ru](https://www.kinopoisk.ru/) в бесплатный онлайн-кинотеатр!
 
 На каждой странице с фильмом или сериалом, в левом верхнем углу появляется флажок, нажав на который, откроется плеер с фильмом.
 
