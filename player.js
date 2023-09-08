@@ -60,7 +60,7 @@ setInterval(() => {
     prevUrl = currUrl;
     kinopoiskPageHandler();
   }
-}, 1);
+}, 1000);
 
 window.addEventListener('popstate',()=>
 {
