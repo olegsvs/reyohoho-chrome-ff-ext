@@ -10,7 +10,7 @@
 3. Откройте страницу настроек расширений браузера (либо наберите в строке адреса chrome://extensions), включите режим разработчика и нажмите на кнопку "Загрузить распакованное расширение". Выберите папку расширения из пункта 2.
 
 ## Установка для Mozilla Firefox
-1. https://addons.mozilla.org/ru/firefox/addon/reyohoho/
+https://addons.mozilla.org/ru/firefox/addon/reyohoho/
 
 ## Tampermonkey
-1. https://raw.githubusercontent.com/olegsvs/reyohoho-chrome-ff-ext/userscript/reyohoho.user.js
+https://raw.githubusercontent.com/olegsvs/reyohoho-chrome-ff-ext/userscript/reyohoho.user.js
