@@ -11,3 +11,6 @@
 
 ## Установка для Mozilla Firefox
 1. https://addons.mozilla.org/ru/firefox/addon/reyohoho/
+
+## Tempermonkey
+1. https://raw.githubusercontent.com/olegsvs/reyohoho-chrome-ff-ext/userscript/reyohoho.user.js
