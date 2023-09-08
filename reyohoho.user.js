@@ -8,8 +8,8 @@
 // @match        *://*.kinopoisk.ru/*
 // @icon         https://github.com/olegsvs/reyohoho-chrome-ff-ext/raw/master/images/icon128.png
 // @grant        none
-// @downloadURL  https://raw.githubusercontent.com/olegsvs/reyohoho-chrome-ff-ext/userscript/reyohoho.js
-// @updateURL    https://raw.githubusercontent.com/olegsvs/reyohoho-chrome-ff-ext/userscript/reyohoho.js
+// @downloadURL  https://raw.githubusercontent.com/olegsvs/reyohoho-chrome-ff-ext/userscript/reyohoho.user.js
+// @updateURL    https://raw.githubusercontent.com/olegsvs/reyohoho-chrome-ff-ext/userscript/reyohoho.user.js
 // @connect      kinopoisk.ru
 // @grant        GM_getResourceText
 // @grant        GM_addStyle
