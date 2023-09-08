@@ -8,3 +8,6 @@
 1. [Скачайте](https://github.com/olegsvs/reyohoho-chrome-ext/archive/refs/heads/master.zip) расширение и сохраните в удобное место.
 2. Разархивируйте расширение.
 3. Откройте страницу настроек расширейний браузера (либо наберите в строке адреса chrome://extensions), включите режим разработчика и нажмите на кнопку "Загрузить распакованное расширение". Выберите папку расширения из пункта 2.
+
+## Установка для Mozilla Firefox
+1. https://addons.mozilla.org/ru/firefox/addon/reyohoho/
