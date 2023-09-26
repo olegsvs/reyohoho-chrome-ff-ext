@@ -2,7 +2,7 @@
 // @name         ReYohoho
 // @namespace    https://github.com/olegsvs/reyohoho-chrome-ff-ext/
 // @homepage     https://github.com/olegsvs/reyohoho-chrome-ff-ext/
-// @version      0.1
+// @version      0.4
 // @description  Open ReYohoho directly from kinopoisk.ru
 // @author       olegsvs
 // @match        *://*.kinopoisk.ru/*
